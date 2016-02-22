@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+  <testsuite errors="1" failures="0" hostname="microwave" id="0" name="GraphTest" package="dataStructures" skipped="0" tests="1" time="0.0" timestamp="2016-02-22T05:41:48">
+      <properties>
+          <property name="java.vendor" value="Oracle Corporation" />
+
+          <property name="env.MOZ_PLUGIN_PATH" value="/usr/lib/mozilla/plugins" />
+
+          <property name="env.INFINALITY_FT_FRINGE_FILTER_STRENGTH" value="25" />
+
+          <property name="sun.java.launcher" value="SUN_STANDARD" />
+
+          <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers" />
+
+          <property name="os.name" value="Linux" />
+
+          <property name="sun.boot.class.path" value="/usr/lib/jvm/java-7-openjdk/jre/lib/resources.jar:/usr/lib/jvm/java-7-openjdk/jre/lib/rt.jar:/usr/lib/jvm/java-7-openjdk/jre/lib/sunrsasign.jar:/usr/lib/jvm/java-7-openjdk/jre/lib/jsse.jar:/usr/lib/jvm/java-7-openjdk/jre/lib/jce.jar:/usr/lib/jvm/java-7-openjdk/jre/lib/charsets.jar:/usr/lib/jvm/java-7-openjdk/jre/lib/rhino.jar:/usr/lib/jvm/java-7-openjdk/jre/lib/jfr.jar:/usr/lib/jvm/java-7-openjdk/jre/classes" />
+
+          <property name="env.PWD" value="/home/demos/development/dspractice" />
+
+          <property name="env.INFINALITY_FT_FILTER_PARAMS" value="08 24 36 24 08" />
+
+          <property name="env.LANG" value="en_US.UTF-8" />
+
+          <property name="env.LESS" value="-R" />
+
+          <property name="java.vm.specification.vendor" value="Oracle Corporation" />
+
+          <property name="ant.home" value="/usr/share/apache-ant" />
+
+          <property name="java.runtime.version" value="1.7.0_95-b00" />
+
+          <property name="env.GOPATH" value="/home/demos/development/go" />
+
+          <property name="env.XDG_VTNR" value="1" />
+
+          <property name="env.DISPLAY" value=":0" />
+
+          <property name="env.NVM_CD_FLAGS" value="-q" />
+
+          <property name="user.name" value="demos" />
+
+          <property name="env.INFINALITY_FT_USE_VARIOUS_TWEAKS" value="true" />
+
+          <property name="env.USER" value="demos" />
+
+          <property name="env.SHELL" value="/usr/bin/zsh" />
+
+          <property name="env.NLSPATH" value="/usr/dt/lib/nls/msg/%L/%N.cat" />
+
+          <property name="env.PATH" value="/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl::/home/demos/.local/bin::/opt/cuda/bin:/home/demos/development/go/bin" />
+
+          <property name="user.language" value="en" />
+
+          <property name="sun.boot.library.path" value="/usr/lib/jvm/java-7-openjdk/jre/lib/amd64" />
+
+          <property name="ant.project.default-target" value="build" />
+
+          <property name="ant.project.name" value="dspractice" />
+
+          <property name="env.LC_CTYPE" value="en_US.UTF-8" />
+
+          <property name="java.version" value="1.7.0_95" />
+
+          <property name="user.timezone" value="" />
+
+          <property name="env.DBUS_SESSION_BUS_ADDRESS" value="unix:path=/run/user/1000/bus" />
+
+          <property name="sun.arch.data.model" value="64" />
+
+          <property name="java.endorsed.dirs" value="/usr/lib/jvm/java-7-openjdk/jre/lib/endorsed" />
+
+          <property name="sun.cpu.isalist" value="" />
+
+          <property name="sun.jnu.encoding" value="UTF-8" />
+
+          <property name="file.encoding.pkg" value="sun.io" />
+
+          <property name="env.SHLVL" value="5" />
+
+          <property name="file.separator" value="/" />
+
+          <property name="java.specification.name" value="Java Platform API Specification" />
+
+          <property name="java.class.version" value="51.0" />
+
+          <property name="user.country" value="US" />
+
+          <property name="java.home" value="/usr/lib/jvm/java-7-openjdk/jre" />
+
+          <property name="env.ZSH" value="/home/demos/.oh-my-zsh" />
+
+          <property name="java.vm.info" value="mixed mode" />
+
+          <property name="env.INFINALITY_FT_STEM_FITTING_STRENGTH" value="15" />
+
+          <property name="env.LOGNAME" value="demos" />
+
+          <property name="ant.file" value="/home/demos/development/dspractice/build.xml" />
+
+          <property name="os.version" value="4.4.1-2-ARCH" />
+
+          <property name="env.INFINALITY_FT_WINDOWS_STYLE_SHARPENING_STRENGTH" value="25" />
+
+          <property name="env.INFINALITY_FT_STEM_ALIGNMENT_STRENGTH" value="15" />
+
+          <property name="path.separator" value=":" />
+
+          <property name="java.vm.version" value="24.95-b01" />
+
+          <property name="ant.library.dir" value="/usr/share/apache-ant/lib" />
+
+          <property name="env.NVM_NODEJS_ORG_MIRROR" value="https://nodejs.org/dist" />
+
+          <property name="junit.output.dir" value="junit" />
+
+          <property name="java.awt.printerjob" value="sun.print.PSPrinterJob" />
+
+          <property name="env.TERM" value="xterm-256color" />
+
+          <property name="env.WINDOWPATH" value="1" />
+
+          <property name="sun.io.unicode.encoding" value="UnicodeLittle" />
+
+          <property name="env.NVM_RC_VERSION" value="" />
+
+          <property name="awt.toolkit" value="sun.awt.X11.XToolkit" />
+
+          <property name="env.LSCOLORS" value="Gxfxcxdxbxegedabagacad" />
+
+          <property name="user.home" value="/home/demos" />
+
+          <property name="target" value="1.7" />
+
+          <property name="java.specification.vendor" value="Oracle Corporation" />
+
+          <property name="env.HG" value="/usr/bin/hg" />
+
+          <property name="env.PAGER" value="less" />
+
+          <property name="env.VTE_VERSION" value="4203" />
+
+          <property name="env.WINDOWID" value="0x1800003" />
+
+          <property name="java.vendor.url" value="http://java.oracle.com/" />
+
+          <property name="java.library.path" value="/usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib" />
+
+          <property name="java.vm.vendor" value="Oracle Corporation" />
+
+          <property name="env.XDG_SEAT" value="seat0" />
+
+          <property name="java.runtime.name" value="OpenJDK Runtime Environment" />
+
+          <property name="ant.version" value="Apache Ant(TM) version 1.9.6 compiled on July 3 2015" />
+
+          <property name="java.class.path" value="/home/demos/development/dspractice/bin:/usr/lib/eclipse/plugins/org.junit_4.12.0.v201504281640/junit.jar:/usr/lib/eclipse/plugins/org.hamcrest.core_1.3.0.v201303031735.jar:/usr/share/java/junit-4.12.jar:/usr/share/java/apache-ant/ant-launcher.jar:/usr/share/apache-ant/lib/ant.jar:/usr/share/apache-ant/lib/ant-junit.jar:/usr/share/apache-ant/lib/ant-junit4.jar" />
+
+          <property name="sun.java.command" value="org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner dataStructures.GraphTest skipNonTests=false filtertrace=true haltOnError=false haltOnFailure=false formatter=org.apache.tools.ant.taskdefs.optional.junit.OutErrSummaryJUnitResultFormatter showoutput=false outputtoformatters=true logfailedtests=true threadid=0 logtestlistenerevents=false formatter=org.apache.tools.ant.taskdefs.optional.junit.XMLJUnitResultFormatter,/home/demos/development/dspractice/junit/TEST-dataStructures.GraphTest.xml crashfile=/home/demos/development/dspractice/junitvmwatcher283879671305803774.properties propsfile=/home/demos/development/dspractice/junit3409360895118110992.properties" />
+
+          <property name="env.XDG_SESSION_ID" value="c1" />
+
+          <property name="env.XFILESEARCHPATH" value="/usr/dt/app-defaults/%L/Dt" />
+
+          <property name="java.vm.specification.name" value="Java Virtual Machine Specification" />
+
+          <property name="ant.file.type" value="file" />
+
+          <property name="java.vm.specification.version" value="1.7" />
+
+          <property name="sun.os.patch.level" value="unknown" />
+
+          <property name="sun.cpu.endian" value="little" />
+
+          <property name="debuglevel" value="source,lines,vars" />
+
+          <property name="env.HOME" value="/home/demos" />
+
+          <property name="java.io.tmpdir" value="/tmp" />
+
+          <property name="ant.file.dspractice" value="/home/demos/development/dspractice/build.xml" />
+
+          <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/" />
+
+          <property name="ant.file.type.dspractice" value="file" />
+
+          <property name="java.awt.graphicsenv" value="sun.awt.X11GraphicsEnvironment" />
+
+          <property name="os.arch" value="amd64" />
+
+          <property name="env.XDG_RUNTIME_DIR" value="/run/user/1000" />
+
+          <property name="java.ext.dirs" value="/usr/lib/jvm/java-7-openjdk/jre/lib/ext:/usr/java/packages/lib/ext" />
+
+          <property name="env.XAUTHORITY" value="/home/demos/.Xauthority" />
+
+          <property name="user.dir" value="/home/demos/development/dspractice" />
+
+          <property name="line.separator" value="&#xa;" />
+
+          <property name="java.vm.name" value="OpenJDK 64-Bit Server VM" />
+
+          <property name="env.NVM_IOJS_ORG_MIRROR" value="https://iojs.org/dist" />
+
+          <property name="basedir" value="/home/demos/development/dspractice" />
+
+          <property name="ant.java.version" value="1.7" />
+
+          <property name="env.LOCALCLASSPATH" value="/usr/share/apache-ant/lib/ant-launcher.jar:/usr/share/java/junit.jar" />
+
+          <property name="ant.core.lib" value="/usr/share/apache-ant/lib/ant.jar" />
+
+          <property name="source" value="1.7" />
+
+          <property name="file.encoding" value="UTF-8" />
+
+          <property name="env.MAIL" value="/var/spool/mail/demos" />
+
+          <property name="env.NVM_DIR" value="/home/demos/.nvm" />
+
+          <property name="java.specification.version" value="1.7" />
+
+          <property name="ant.project.invoked-targets" value="GraphTest" />
+
+      </properties>
+
+      <error message="dataStructures.GraphTest" type="java.lang.ClassNotFoundException">java.lang.ClassNotFoundException: dataStructures.GraphTest
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:366)
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:355)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:354)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:425)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:308)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:358)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:195)
+</error>
+
+      <system-out><![CDATA[]]></system-out>
+
+      <system-err><![CDATA[]]></system-err>
+
+  </testsuite>
+</testsuites>

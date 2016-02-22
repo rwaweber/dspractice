@@ -2,4 +2,6 @@ language: java
 
 jdk:
  - openjdk7
-
+ 
+clean: ant clean
+build: ant GraphTest
