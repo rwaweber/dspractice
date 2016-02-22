@@ -5,6 +5,8 @@ package dataStructures;
 
 import static org.junit.Assert.*;
 
+import java.util.ArrayList;
+
 import org.junit.Before;
 import org.junit.Test;
 
@@ -13,20 +15,23 @@ import org.junit.Test;
  *
  */
 public class GraphTest {
-
-	/**
-	 * @throws java.lang.Exception
-	 */
-	@Before
-	public void setUp() throws Exception {
-	}
+	
+	Graph<String> g = new Graph<String>();
 
 	/**
 	 * Test method for {@link dataStructures.Graph#Graph(java.util.ArrayList)}.
 	 */
 	@Test
 	public void testGraphArrayListOfNodeOfT() {
-		fail("Not yet implemented");
+		Node<String> n1 = new Node<String>("001", "tangerine");
+		Node<String> n2 = new Node<String>("002", "tomato");
+		Node<String> n3 = new Node<String>("003", "orange");
+		ArrayList<Node<String>> l1 = new ArrayList<Node<String>>();
+		l1.add(n1);
+		l1.add(n2);
+		l1.add(n3);
+		Graph<String> g2 = new Graph<String>(l1);
+		assertEquals(g2.network.size(), 3);
 	}
 
 	/**
